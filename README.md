@@ -15,5 +15,8 @@
 ### 슬랙 slack
 - https://seomse.slack.com/
 
-### email (협업, 외주)
- - comseomse@gmail.com
+### email 
+- comseomse@gmail.com
+- 협업 문의
+- team join 문의
+- 기타 문의 (외주, 투자)

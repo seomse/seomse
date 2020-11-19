@@ -1,16 +1,19 @@
-### Hi there 👋
+# 개발자모임 섬세한사람들
+- 작은것을 만들어도 사용될 수 있는것을 만들고자 합니다.
+- 개발자의 가장 큰 가치는 만든것이 많은 사람들한테 만족스럽게 사용될 때 라고 생각합니다.
 
-<!--
-**seomse/seomse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### blog, homepage
+- www.seomse.com
+- seomse.tistory.com
+- seomse.github.io
+- seomse.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 카카오톡 오픈톡
+ - https://open.kakao.com/o/g6vzOKqb
+
+### 슬랙 slack
+- https://seomse.slack.com/
+
+### email (협업, 외주)
+ - comseomse@gmail.com
